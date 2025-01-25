@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: 'Inika';
+    color: #5e4630;
+}
+
+header {
+    background-color: white;
+    padding: 10px 0;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+
+header h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.confirm-title {
+    text-align: center;
+    font-size: 45px;
+    margin: 40px 0 20px;
+}
+
+main {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+}
+
+table {
+    width: 100%;
+    margin: 0 auto 30px;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 20px;
+    border: 1px solid black;
+    text-align: left;
+    vertical-align: middle;
+}
+
+th {
+    width: 30%;
+    background-color: #8d7b68;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+    padding-left: 40px;
+}
+
+td {
+    width: 70%;
+    font-size: 18px;
+}
+
+.form-actions {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button.submit-btn,
+button.modify-btn {
+    display: inline-block;
+    margin: 10px 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #8d7b68;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button.submit-btn:hover,
+button.modify-btn:hover {
+    background-color: #7a6a5d;
+}
