@@ -28,7 +28,8 @@
 
 下記はアプリケーションにおけるER図の構成図です。
 
-[Untitled](https://github.com/user-attachments/assets/647dbb57-3172-4c48-b12a-5dd269d45f95)
+![Untitled](https://github.com/user-attachments/assets/88a063c8-7e2b-451f-9a11-4ec6eff00c12)
+
 
 
 
